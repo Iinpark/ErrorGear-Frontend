@@ -1,0 +1,41 @@
+{
+  "hash": "65d92f8f",
+  "browserHash": "6fcae8bd",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/.pnpm/react@18.2.0/node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "e711e414",
+      "needsInterop": true
+    },
+    "antd": {
+      "src": "../../node_modules/.pnpm/antd@5.6.3_react-dom@18.2.0_react@18.2.0/node_modules/antd/es/index.js",
+      "file": "antd.js",
+      "fileHash": "4dc4bd9b",
+      "needsInterop": false
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/.pnpm/react-dom@18.2.0_react@18.2.0/node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "90e231af",
+      "needsInterop": true
+    },
+    "@ant-design/icons": {
+      "src": "../../node_modules/.pnpm/@ant-design+icons@5.1.4_react-dom@18.2.0_react@18.2.0/node_modules/@ant-design/icons/es/index.js",
+      "file": "@ant-design_icons.js",
+      "fileHash": "f56d3a82",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-GNJGKRU6": {
+      "file": "chunk-GNJGKRU6.js"
+    },
+    "chunk-T7MXK4VP": {
+      "file": "chunk-T7MXK4VP.js"
+    },
+    "chunk-KEKNYSKK": {
+      "file": "chunk-KEKNYSKK.js"
+    }
+  }
+}

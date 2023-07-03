@@ -14,7 +14,7 @@ const FileInput = (props) => {
     action(file) {
       const reader = new FileReader();
       reader.onload = (event) => {
-        if (!event) return;
+        if (!event?.target) return;
 
         const contents = event.target.result;
         onFileUpload(contents);
